@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhay Kansal
 - 🏫 I'm currently a 3rd year student at Jaypee Institute of Information Technology,Noida pursuing BTech (CSE)
 - 👀 I’m interested in Problem Solving and Web development
-<!--- 🌱 I’m currently learning ..  --->
+- 🌱 I’m currently learning Full Stack Development
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me https://www.linkedin.com/in/abhaykansal177/ 
 
