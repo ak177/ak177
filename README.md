@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhay Kansal
-- 🏫 I'm currently a Final year student at Jaypee Institute of Information Technology,Noida pursuing BTech (CSE)
+- 🏫 Software Development Engineer at Procol Tech Pvt Ltd
 - 👀 I’m interested in Problem Solving and Web development
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 Full Stack Development Developer
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me https://www.linkedin.com/in/abhaykansal177/ 
 
